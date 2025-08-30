@@ -1,3 +1,5 @@
+# CatMine-小猫挖矿
+
 Welcome to CatMine!
 
 ·Note: This game is made 1.18- for clean , duda (me) and clean made 1.18+ 
