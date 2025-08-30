@@ -1,4 +1,4 @@
-[中文README](https://github.com/Claudia-team/CatMine/main/CHINESE.md)
+[中文README](https://github.com/Claudia-team/CatMine/blob/main/CHINESE.md)
 
 # CatMine-小猫挖矿
 
