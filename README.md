@@ -1,3 +1,5 @@
+[中文README](https://github.com/Claudia-team/CatMine/main/CHINESE.md)
+
 # CatMine-小猫挖矿
 
 Welcome to CatMine!
