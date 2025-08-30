@@ -1,7 +1,6 @@
-# CatMine-小猫挖矿
-
 [English README](https://github.com/Claudia-team/CatMine/blob/main/README.md)
 
+# CatMine-小猫挖矿
 
 欢迎游玩小猫挖矿！
 
