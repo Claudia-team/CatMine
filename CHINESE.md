@@ -1,5 +1,8 @@
 # CatMine-小猫挖矿
 
+[English README](https://github.com/Claudia-team/CatMine/blob/main/README.md)
+
+
 欢迎游玩小猫挖矿！
 
 ·注意:本游戏为clean制作1.18-，杜达(我)与clean制作1.18+
